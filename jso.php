@@ -1,4 +1,3 @@
-<body>
 <center>
     <h1>Jso Converter<br>IFC-Team</h1>
     <form name="charCodeAt" method="post">
