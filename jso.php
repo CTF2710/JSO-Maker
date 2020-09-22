@@ -1,1 +1,1 @@
-Kita berhitung bentar
+99
