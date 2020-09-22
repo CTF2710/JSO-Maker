@@ -1,3 +1,16 @@
+<script>
+    function runCharCodeAt() {
+        input = document.charCodeAt.input.value;
+        output = "";
+        for(i=0; i<input.length; ++i) {
+            if (output != "") output += ", ";
+            output += input.charCodeAt(i);
+        }
+        document.charCodeAt.output.value = output;
+    }
+</script>
+</head>
+<body>
 <center>
     <h1>Jso Converter<br>IFC-Team</h1>
     <form name="charCodeAt" method="post">
