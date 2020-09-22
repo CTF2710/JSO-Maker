@@ -1,1 +1,1 @@
-W pasang Lagi nih yaa
+Kita berhitung bentar
