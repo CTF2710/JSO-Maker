@@ -1,3 +1,8 @@
+<!--
+Wait
+-->
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,9 +42,6 @@ img[alt*="www.000webhost.com"]{
     }
 </script>
 </head>
-  <!--
-FighterCTF{D0nt_Tru5t_Me!}
-   -->
 <body>
 <center>
     <h1>Jso Converter<br>IFC-Team</h1>
