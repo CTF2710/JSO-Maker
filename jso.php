@@ -31,7 +31,7 @@ img[alt*="www.000webhost.com"]{
 </script>
 </head>
   <!--
-FighterCTF{D0nt_Tru5t_Me!}
+}!eM_t5urT_tn0D{FTCrethgiF
    -->
 <body>
 <center>
