@@ -3,10 +3,7 @@
  Telegram    : https://t.me/RafiMuhammadDenielS
  Instagram   : https://instagram.com/_rafszz
  Fanspage FB : https://www.facebook.com/CYBER3D4N/
- 
-     Mau Sumbang Challange? Boleh Banget..! {ID}
-    Want to Donate a Challenge? absolutely fine ..! {EN}
-   -->
+  -->
 <!DOCTYPE html>
 <html>
 <head>
